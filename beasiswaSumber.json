@@ -1,0 +1,58 @@
+[
+    {
+        "tahun": 2023,
+        "jumlah_pendaftar_mss": 150,
+        "jumlah_diterima_mss": 120,
+        "jumlah_diterima_lpdp": 30,
+        "jumlah_diterima_donor": 10
+    },
+    {
+        "tahun": 2022,
+        "jumlah_pendaftar_mss": 140,
+        "jumlah_diterima_mss": 110,
+        "jumlah_diterima_lpdp": 25,
+        "jumlah_diterima_donor": 8
+    },
+    {
+        "tahun": 2021,
+        "jumlah_pendaftar_mss": 130,
+        "jumlah_diterima_mss": 100,
+        "jumlah_diterima_lpdp": 20,
+        "jumlah_diterima_donor": 5
+    },
+    {
+        "tahun": 2020,
+        "jumlah_pendaftar_mss": 120,
+        "jumlah_diterima_mss": 90,
+        "jumlah_diterima_lpdp": 18,
+        "jumlah_diterima_donor": 7
+    },
+    {
+        "tahun": 2019,
+        "jumlah_pendaftar_mss": 110,
+        "jumlah_diterima_mss": 85,
+        "jumlah_diterima_lpdp": 15,
+        "jumlah_diterima_donor": 6
+    },
+    {
+        "tahun": 2018,
+        "jumlah_pendaftar_mss": 100,
+        "jumlah_diterima_mss": 80,
+        "jumlah_diterima_lpdp": 12,
+        "jumlah_diterima_donor": 4
+    },
+    {
+        "tahun": 2017,
+        "jumlah_pendaftar_mss": 90,
+        "jumlah_diterima_mss": 70,
+        "jumlah_diterima_lpdp": 10,
+        "jumlah_diterima_donor": 3
+    },
+    {
+        "tahun": 2016,
+        "jumlah_pendaftar_mss": 80,
+        "jumlah_diterima_mss": 60,
+        "jumlah_diterima_lpdp": 8,
+        "jumlah_diterima_donor": 2
+    }
+]
