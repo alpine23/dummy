@@ -1,0 +1,25 @@
+{
+  "jenis_kelamin": [
+    { "jenis": "Laki-Laki", "jumlah": 150 },
+    { "jenis": "Perempuan", "jumlah": 120 }
+  ],
+  "status_pegawai": [
+    { "status": "PNS", "jumlah": 200 },
+    { "status": "Kontrak", "jumlah": 70 }
+  ],
+  "jenis_jabatan": [
+    { "jabatan": "Struktural", "jumlah": 50 },
+    { "jabatan": "Fungsional", "jumlah": 220 }
+  ],
+  "pendidikan": [
+    { "tingkat": "S1", "jumlah": 180 },
+    { "tingkat": "S2", "jumlah": 70 },
+    { "tingkat": "S3", "jumlah": 20 }
+  ],
+  "golongan": [
+    { "golongan": "I", "jumlah": 30 },
+    { "golongan": "II", "jumlah": 50 },
+    { "golongan": "III", "jumlah": 150 },
+    { "golongan": "IV", "jumlah": 40 }
+  ]
+}
